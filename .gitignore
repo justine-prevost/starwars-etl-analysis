@@ -209,3 +209,5 @@ __marimo__/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+*.db
+logs/
