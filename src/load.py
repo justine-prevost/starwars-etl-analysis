@@ -4,7 +4,7 @@ import os
 
 logger = logging.getLogger(__name__)
 
-path_load = "./data/clean/"
+path_load = "../data/clean/"
 
 os.makedirs(path_load, exist_ok=True)
 
