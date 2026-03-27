@@ -24,8 +24,8 @@ It includes data extraction, transformation and analysis with pandas also SQL qu
 - SQL analysis queries like percentage, rank, sum case when, etc
 
 # Data
-Data files are not included in this repository
-They are generated through the ETL pipeline
+- Data files are not included in this repository
+- They are generated through the ETL pipeline
 
 # How to run
 1. Clone the repo
