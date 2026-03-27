@@ -3,7 +3,7 @@ import pandas as pd
 
 logger = logging.getLogger(__name__)
 
-path = "../data/raw/"
+path = "./data/raw/"
 
 people = pd.read_json(path+'raw_people.json')
 planets = pd.read_json(path+'raw_planets.json')
