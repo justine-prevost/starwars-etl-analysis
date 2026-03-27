@@ -211,3 +211,4 @@ __pycache__/
 *.pyc
 *.db
 logs/
+data/
