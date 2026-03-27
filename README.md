@@ -1,4 +1,4 @@
-Star Wars ETL Project
+# Star Wars ETL Project
 
 # Project overview
 This project is an ETL pipeline using Star Wars data (SWAPI).
