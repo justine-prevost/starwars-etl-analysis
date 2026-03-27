@@ -23,6 +23,10 @@ It includes data extraction, transformation and analysis with pandas also SQL qu
 - Groupby, aggregation, pivot_table, sort_values, merge and plot
 - SQL analysis queries like percentage, rank, sum case when, etc
 
+# Data
+Data files are not included in this repository
+They are generated through the ETL pipeline
+
 # How to run
 1. Clone the repo
 2. Install requirements
