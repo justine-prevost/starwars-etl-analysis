@@ -24,7 +24,7 @@ def extract_data(current_url, empty_list):
     except requests.exceptions.RequestException as any_e : 
         logger.error(f"General error : {any_e}")
 
-path = "../data/raw/"
+path = "./data/raw/"
 
 def folder_creation(path):
     try : 
