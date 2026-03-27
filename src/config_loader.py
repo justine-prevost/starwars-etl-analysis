@@ -2,7 +2,7 @@ import yaml
 
 def load_config():    
     try :
-        with open("config_yaml/config.yaml", 'r') as file : 
+        with open("../config_yaml/config.yaml", 'r') as file : 
             return yaml.safe_load(file)
     except FileNotFoundError : 
         print("File is not found")
